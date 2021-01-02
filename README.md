@@ -36,7 +36,7 @@ query GetContinent($code : String!){
 
 ```
 
-Change this query to get desires outputs
+Change this query to get desired outputs
 
 
 Link to the graphQL API used : https://countries.trevorblades.com/
